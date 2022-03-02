@@ -7,4 +7,4 @@ Jogo desenvolvido utilizando:
 
 Screenshot:
 
-[tictactoe](https://github.com/rafaeltedesco/TikTakToeReactNative/tree/main/screenshots/tictactoe.png)
+![tictactoe](https://github.com/rafaeltedesco/TikTakToeReactNative/tree/main/screenshots/tictactoe.png)
