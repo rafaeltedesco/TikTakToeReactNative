@@ -57,7 +57,7 @@ const PlayerInfoText = styled.Text`
 `;
 
 const App = () => {
-  const [winner, setWinner] = React.useState('X');
+  const [winner, setWinner] = React.useState('');
   const winningCombinations = [
     [0, 1, 2],
     [3, 4, 5],
